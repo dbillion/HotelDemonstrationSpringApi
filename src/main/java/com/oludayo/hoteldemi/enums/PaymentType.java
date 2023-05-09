@@ -1,8 +1,7 @@
 package com.oludayo.hoteldemi.enums;
 
-public enum RoomType {
-    SINGLE,
-    DOUBLE,
-    SUITE,
-    DELUXE
+public enum PaymentType {
+Cash,
+    Card,
+    Webtransfer
 }
